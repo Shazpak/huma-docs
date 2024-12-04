@@ -17,7 +17,7 @@ The email also contains a link where you can create your account. Click the **Cr
 
 The first time you log in, we will verify your details using 2-factor authentication; verify your email by clicking the link emailed to you and then enter the 6 digit code sent to your mobile number via text message.
 
-2-factor authentication will be used for subsequent logins but you can check the box **Remember me** to pause the mobile verification step for 2 weeks. 
+2-factor authentication will be used for subsequent logins but you can check the box **Remember me** to pause the mobile verification step for 2 weeks or enable/disable 2FA in your profile.
  
-**Related articles**: [Inviting Deployment Admins](../../admin-portal/managing-deployments/tools-and-navigation/inviting-deployment-admins.md); [Creating a new Deployment](../../admin-portal/managing-deployments/general-settings/creating-a-new-deployment.md); [Inviting staff to the Organisation](../../admin-portal/managing-organisations/inviting-staff-to-an-organisation.md)
+**Related articles**: [Inviting staff and assigning roles](../../clnician-portal/roles-and-permissions/inviting-staff-and-assigning-roles/); [Inviting Patients](../../clnician-portal/roles-and-permissions/inviting-patients)
 
